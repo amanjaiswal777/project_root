@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/88a0f993536a4ca6a449b5ccec8cb857/artifacts
+end_time: 1690282131519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88a0f993536a4ca6a449b5ccec8cb857
+run_name: capable-yak-677
+run_uuid: 88a0f993536a4ca6a449b5ccec8cb857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690282130400
+status: 3
+tags: []
+user_id: 4crisk

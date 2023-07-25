@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1509003da59b4a9781fb52499a770bbd/artifacts
+end_time: 1690281515785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1509003da59b4a9781fb52499a770bbd
+run_name: sassy-trout-846
+run_uuid: 1509003da59b4a9781fb52499a770bbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690281514695
+status: 4
+tags: []
+user_id: 4crisk

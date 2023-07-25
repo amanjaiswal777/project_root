@@ -1,0 +1,13 @@
+stages:
+  preprocess:
+    cmd: python code/data_preprocess.py
+    deps:
+      - data/raw/sentences.csv
+    outs:
+      - data/processed/sentences_preprocessed.csv
+  train:
+    cmd: python code/train.py
+    deps:
+      - data/processed/sentences_preprocessed.csv
+    outs:
+      - models/similarity_model.pkl
